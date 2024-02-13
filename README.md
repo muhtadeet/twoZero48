@@ -6,4 +6,4 @@
 
 Just wanted to pass time while I travel to university :P
 
-This is a fork to (This Project){https://github.com/uragirii/two048}. 
+This is a fork to {This Project}{https://github.com/uragirii/two048}. 
